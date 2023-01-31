@@ -1,0 +1,22 @@
+* {
+  text-align: center;
+  background-color:midnightblue;
+}
+h3{
+    color: cornflowerblue;
+    font-family:Broadway;
+    font-size: 50px;
+}
+h6{
+    font-size: 20px;
+    font-family: Broadway;
+}
+#buttons{
+    display: flex;
+    justify-content: center;
+}
+button{
+    padding:10px;
+    margin:10px;
+    color:cornflowerblue;
+}
